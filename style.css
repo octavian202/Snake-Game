@@ -13,12 +13,13 @@ html, body {
 }
 
 .square {
+    background: lightblue;
     width: 20px;
     height: 20px;
 }
 
 .snake {
-    background-color: green;
+    background: green;
 }
 
 .apple {
